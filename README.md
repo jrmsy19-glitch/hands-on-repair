@@ -148,6 +148,27 @@ Examples:
 
 **Key lesson:** **M.2 describes a form factor, not a guarantee that every M.2 SSD interface is supported.**
 
+<img width="1182" height="665" alt="26618968-9C07-4EE2-AA0E-2F80D76AB7B4_1_105_c" src="https://github.com/user-attachments/assets/30c80c90-2708-4729-9ff9-8a8417701518" />
+
+<img width="768" height="1024" alt="B1091C3B-2AB4-4B9E-804E-5D22625B2DE2_1_105_c" src="https://github.com/user-attachments/assets/eb56f634-835b-4587-99c7-69840f9967a0" />
+
+<img width="768" height="1024" alt="B8848BE4-59B1-4F28-A083-F3154663C878_1_105_c" src="https://github.com/user-attachments/assets/dce024d5-cb65-42de-89f1-c126f7d54dc4" />
+
+<img width="1182" height="665" alt="5F0A1A10-DF81-4E3E-98DF-473A01CCE5F0_1_105_c" src="https://github.com/user-attachments/assets/d31b5dbe-1617-4e2f-b705-35f785365122" />
+
+<img width="768" height="1024" alt="AFE5C594-8F48-4713-825A-327C90846EEC_1_105_c" src="https://github.com/user-attachments/assets/c90ad284-41a8-4e6d-9114-1b5538d9128e" />
+
+
+<img width="1182" height="665" alt="B00A33B5-F8DE-4760-B86A-5695C45EA9DE_1_105_c" src="https://github.com/user-attachments/assets/aef9b598-1a9e-4dc2-a2e7-b14431d76931" />
+
+
+<img width="1182" height="665" alt="32D364C8-9410-4B15-9E6C-F0AE558F9CE2_1_105_c" src="https://github.com/user-attachments/assets/dd22d46a-c682-4d75-8de3-9ac9ba024409" />
+
+
+<img width="1024" height="768" alt="A173147F-8285-4F14-9B01-81CE24735E39_1_105_c" src="https://github.com/user-attachments/assets/a0ece11a-bd4a-4220-9602-4e80d9abf58f" />
+
+
+
 ---
 
 ### 02 — HP-dk Series: Niece's Gray Laptop — SSD Cross-Test and Keyboard Assessment
