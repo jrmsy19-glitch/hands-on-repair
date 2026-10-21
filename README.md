@@ -167,8 +167,6 @@ Examples:
 
 <img width="1024" height="768" alt="A173147F-8285-4F14-9B01-81CE24735E39_1_105_c" src="https://github.com/user-attachments/assets/a0ece11a-bd4a-4220-9602-4e80d9abf58f" />
 
-
-
 ---
 
 ### 02 — HP-dk Series: Niece's Gray Laptop — SSD Cross-Test and Keyboard Assessment
@@ -207,12 +205,10 @@ Examples:
 <img width="1182" height="665" alt="BDA998F6-72B9-4454-AE5D-325820748966_1_105_c" src="https://github.com/user-attachments/assets/f0000cb0-1f8d-4e40-9caa-774940a134ca" />
 
 
+<img width="886" height="886" alt="04FE2591-F84F-4E9E-A158-37FBCC22A655_1_105_c" src="https://github.com/user-attachments/assets/8801fb70-9fa6-43ec-aa63-205ee216ab65" />
 
 
-
-
-
-**Suggested evidence:** Side-by-side photo of the gray HP-dk and blue HP-fq, close-ups of missing keycaps, and a storage-detection screenshot if available. Avoid posting serial numbers or personal information.
+<img width="1024" height="768" alt="A30811A9-0655-405C-A119-9D34BF539947_1_105_c" src="https://github.com/user-attachments/assets/f20ed6b0-5b63-4e80-96e6-aa289da153ab" />
 
 ---
 
