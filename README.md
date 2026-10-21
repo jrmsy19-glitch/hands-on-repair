@@ -195,6 +195,16 @@ Examples:
 
 **Outcome:** The HP-dk served as a functional comparison system for the NVMe SSD. The keyboard/keycap issue remained an assessment, **not a confirmed repair**.
 
+<img width="1182" height="665" alt="27748CA7-C093-4E02-90A6-AF9E2E318130_1_105_c" src="https://github.com/user-attachments/assets/91d34258-7049-47e9-9d3f-27ccd7253f58" />
+
+
+<img width="1182" height="665" alt="CB821A97-E9F8-4AA1-BD06-D7C69BA37C47_1_105_c" src="https://github.com/user-attachments/assets/13c7323e-33a8-4f88-8389-435072bd1043" />
+
+
+
+
+
+
 **Suggested evidence:** Side-by-side photo of the gray HP-dk and blue HP-fq, close-ups of missing keycaps, and a storage-detection screenshot if available. Avoid posting serial numbers or personal information.
 
 ---
