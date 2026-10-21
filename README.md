@@ -90,12 +90,12 @@ Examples:
 
 ## Chronological Project Index
 
-> Projects 1 and 2 are intentionally the family laptops. The exact model and completed tasks for the niece's laptop require confirmation; that entry is explicitly marked to avoid inventing details. Remaining entries follow the approximate project timeline; several projects overlapped.
+> Projects 1 and 2 are intentionally the family laptops. Project 2 is the gray HP-dk series laptop with damaged/missing S and O keycaps; its full model suffix and any additional repairs remain unverified. Remaining entries follow the approximate project timeline; several projects overlapped.
 
 | # | Approx. period | Device / project | Primary focus | Documented status |
 |---|---|---|---|---|
 | 1 | Jul–Aug 2026 | **HP 14-fq0013dx — nephew's laptop** | M.2 compatibility, SSD, RAM, BIOS, Windows | Hardware upgrade / configuration |
-| 2 | 2026 | **Niece's laptop — model to confirm** | Family laptop project | Details pending verification |
+| 2 | 2026 | **HP-dk series — niece's gray laptop** | NVMe compatibility cross-test; missing S/O keycaps | SSD test confirmed; keycap repair not confirmed |
 | 3 | Aug 2026 | MacBook Air | No-power / no-charge diagnosis | Unresolved investigation |
 | 4 | Aug 2026 | ASUS laptop / VivoBook-type | Battery diagnosis and replacement | Completed battery repair |
 | 5 | Aug 2026 | Acer Aspire 3 A317 | Windows configuration, remote lab planning | Configuration / planned lab |
@@ -150,25 +150,31 @@ Examples:
 
 ---
 
-### 02 — Niece's Laptop: Family Device Project
+### 02 — HP-dk Series: Niece's Gray Laptop — SSD Cross-Test and Keyboard Assessment
 
-**Period:** 2026  
-**Model:** **To be confirmed before interview**  
-**Status:** Family laptop project; exact repair actions not yet verified in this portfolio.
+**Period:** 2026 (exact date to confirm)  
+**Model:** HP-dk series, gray chassis; full product number not yet verified  
+**Status:** Used for a successful NVMe SSD cross-test; damaged/missing keycaps identified; keyboard repair not yet documented as completed.
 
-This project is intentionally listed second because my initial hands-on laptop work included devices for my niece and nephew.
+**Initial observations**
 
-**Documentation still needed**
+- This is my niece's gray HP-dk laptop, distinct from my nephew's HP 14-fq0013dx.
+- The **S and O keycaps** were visibly missing or damaged in a photo comparing this laptop with the blue HP-fq.
+- I considered whether donor keycaps or an entire keyboard could be transferred between the two laptops, but compatibility was **not established**.
 
-- Exact manufacturer, model and serial-number-free specifications.
-- Initial condition or reported issue.
-- Which components, if any, were replaced or upgraded.
-- Windows installation/configuration steps actually completed.
-- Final functional test and handoff status.
+**Troubleshooting and component verification**
 
-**Important distinction:** The separate HP laptop used to validate the Patriot P300 NVMe SSD in Project 01 is documented as a test system; I am **not assuming** it was my niece's laptop without confirmation.
+1. During Project 01, the Patriot P300 256 GB M.2 NVMe SSD was not recognized in the HP 14-fq.
+2. I tested that SSD in the HP-dk laptop, where it was recognized, helping demonstrate that the SSD itself was functional.
+3. This comparative test helped isolate the original problem to the HP-fq's storage-interface compatibility rather than an inherently defective SSD.
+4. I visually compared the two laptops' keyboard layouts and assessed the possibility of replacing only the missing S/O keycaps.
+5. I did **not** assume that similarly shaped keys share the same scissor hinges or retaining clips; a close-up inspection and part compatibility check would be required before removal.
 
-**Suggested evidence:** Device photo, system information screenshot with identifying data removed, repair notes, and a final boot or health-check screenshot.
+**Skills demonstrated:** Known-good system/component substitution, SSD fault isolation, M.2 NVMe compatibility testing, visual keyboard assessment, avoiding unverified replacement-part compatibility.
+
+**Outcome:** The HP-dk served as a functional comparison system for the NVMe SSD. The keyboard/keycap issue remained an assessment, **not a confirmed repair**.
+
+**Suggested evidence:** Side-by-side photo of the gray HP-dk and blue HP-fq, close-ups of missing keycaps, and a storage-detection screenshot if available. Avoid posting serial numbers or personal information.
 
 ---
 
