@@ -363,6 +363,20 @@ Examples:
 
 **Key lesson:** A passing quick diagnostic or successful boot does not automatically rule out intermittent thermal or power issues.
 
+<img width="2208" height="1242" alt="9D5332B4-B72E-4F01-9BBC-4943BB5A806E_1_201_a" src="https://github.com/user-attachments/assets/6168d218-0d3a-4ccf-965f-31db12aff7ca" />
+
+<img width="1182" height="665" alt="A66098C9-05B1-460F-B123-09D5DA6D1E08_1_105_c" src="https://github.com/user-attachments/assets/55194ca3-09b5-467b-b65a-ff17a87b118b" />
+
+<img width="665" height="1182" alt="AC778FA0-8335-4CB0-BA88-D588D710A914_1_105_c" src="https://github.com/user-attachments/assets/479259df-3b90-459f-838c-a428b069af03" />
+
+<img width="1182" height="665" alt="4EF0CF3E-3129-4C23-877C-DB4231CE0636_1_105_c" src="https://github.com/user-attachments/assets/08339346-6895-4c42-9881-294219bb3ad9" />
+
+<img width="1182" height="665" alt="D3F0C792-25EE-4B0C-8D60-D2C51CB277B2_1_105_c" src="https://github.com/user-attachments/assets/38079b70-e2d6-41aa-895d-80e326a6deeb" />
+
+
+<img width="665" height="1182" alt="9B442226-7DB5-4FB0-A358-0D03F228F3E8_1_105_c" src="https://github.com/user-attachments/assets/7d808952-a638-47b8-a26a-22de82b50300" />
+
+
 ---
 
 ### 07 — HP Pavilion Gaming 16: Unit B
@@ -638,11 +652,15 @@ Examples:
 
 **Key lesson:** Avoid replacing expensive components based only on charging LED behavior.
 
+<img width="2208" height="1242" alt="09409793-B205-42B5-8887-E5C75EF819B9_1_201_a" src="https://github.com/user-attachments/assets/99b03586-5076-46c0-a4fe-b84f7ec9b7bf" />
+
+<img width="2208" height="1242" alt="BEE7C6B6-EBDC-4038-AA71-A1EF00B01623_1_201_a" src="https://github.com/user-attachments/assets/ae6e5ba3-f0e0-477c-9c44-ec348f22c4f6" />
 
 
+<img width="665" height="1182" alt="30D42D4A-33AF-4F3E-8279-DDE9F4942DE9_1_105_c" src="https://github.com/user-attachments/assets/98a7e38f-9d17-42ce-b793-eb6868112c86" />
 
 
-
+<img width="2208" height="1242" alt="6734C07E-D8C7-475D-A2BC-6BD0931B9020_1_201_a" src="https://github.com/user-attachments/assets/27266a13-41c5-4c0f-9cd2-f09c86726859" />
 
 
 
