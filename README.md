@@ -317,7 +317,6 @@ Examples:
 
 <img width="1182" height="665" alt="0E9B1F43-5A5E-4519-9CFE-4DB7DEFFCEC8_1_105_c" src="https://github.com/user-attachments/assets/a389565f-b8ab-4704-8d38-ed226ad36937" />
 
-
 ---
 
 ### 06 — HP Pavilion Gaming 16: Unit A
@@ -368,6 +367,23 @@ Examples:
 <img width="1182" height="665" alt="A66098C9-05B1-460F-B123-09D5DA6D1E08_1_105_c" src="https://github.com/user-attachments/assets/55194ca3-09b5-467b-b65a-ff17a87b118b" />
 
 <img width="665" height="1182" alt="AC778FA0-8335-4CB0-BA88-D588D710A914_1_105_c" src="https://github.com/user-attachments/assets/479259df-3b90-459f-838c-a428b069af03" />
+
+
+<img width="665" height="1182" alt="55C0F4F3-6FC9-4C68-BED6-C91F17A53A5F_1_105_c" src="https://github.com/user-attachments/assets/95938bdc-ce4d-45fe-aa4c-ecc5ce320b78" />
+
+<img width="665" height="1182" alt="677CC79C-A570-486A-8F61-BE1B0B103DAD_1_105_c" src="https://github.com/user-attachments/assets/6b101b71-76c8-4e9a-8e19-dec0943a424e" />
+
+
+<img width="665" height="1182" alt="B59931DA-A695-4AB5-B8B0-3CFDEC9583B2_1_105_c" src="https://github.com/user-attachments/assets/6a281fac-3b1c-4e02-9370-6c2cd836c6a4" />
+
+
+<img width="1182" height="665" alt="C2FF2DA6-AB4B-4269-8ADD-4660A3111D61_1_105_c" src="https://github.com/user-attachments/assets/a65f325f-f305-4589-848c-2226aa884e9d" />
+
+<img width="665" height="1182" alt="F4D8EA6F-ABCE-4479-8DBC-CC9399115091_1_105_c" src="https://github.com/user-attachments/assets/13530493-69b1-4d1c-81be-73d440ab63e4" />
+
+
+<img width="665" height="1182" alt="235ADD37-5216-4E78-9B71-A4AF77A9E3CB_1_105_c" src="https://github.com/user-attachments/assets/8f1572a3-1f53-4baf-8bae-6ac4e868662a" />
+
 
 <img width="1182" height="665" alt="4EF0CF3E-3129-4C23-877C-DB4231CE0636_1_105_c" src="https://github.com/user-attachments/assets/08339346-6895-4c42-9881-294219bb3ad9" />
 
