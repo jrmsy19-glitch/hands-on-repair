@@ -425,6 +425,9 @@ Examples:
 
 <img width="638" height="360" alt="630D58B9-D774-4CB6-BFC3-F304C97D20EE_4_5005_c" src="https://github.com/user-attachments/assets/c1b42b67-8ee8-4cc8-bb1a-61885277c836" />
 
+<img width="1182" height="665" alt="B386C18D-9D7A-4A1E-B24A-36610DEB6BA0_1_105_c" src="https://github.com/user-attachments/assets/81da4e86-2c23-4b6b-a60a-bfd4da94e1e2" />
+
+
 <img width="2208" height="1242" alt="76935401-888E-4374-938D-C33A60C8EE21_1_201_a" src="https://github.com/user-attachments/assets/3ef07755-4422-4c9c-8586-7f7c6fcbde45" />
 
 
@@ -634,6 +637,14 @@ Examples:
 **Skills demonstrated:** Adapter specification matching, internal inspection, battery isolation, reset procedures, symptom tracking, safe escalation.
 
 **Key lesson:** Avoid replacing expensive components based only on charging LED behavior.
+
+
+
+
+
+
+
+
 
 ---
 
