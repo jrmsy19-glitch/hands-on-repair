@@ -262,6 +262,30 @@ Examples:
 
 **Key lesson:** A replacement is only a confirmed fix when the original symptom no longer occurs during relevant testing.
 
+
+<img width="1182" height="665" alt="5BD9E5D0-1935-45D5-A721-33DF20F0D67C_1_105_c" src="https://github.com/user-attachments/assets/95f347f5-f8f2-4909-8879-3b5cd637e728" />
+
+
+<img width="665" height="1182" alt="9D9BF7B5-1238-4FCB-A2FA-680242E5051F_1_105_c" src="https://github.com/user-attachments/assets/dd4a1eb7-b90f-46f0-bfdb-f8867d83ca61" />
+
+
+<img width="665" height="1182" alt="B351C004-6446-4E3B-A04D-47CA54F61AB6_1_105_c" src="https://github.com/user-attachments/assets/f47b35b1-d01f-4e3c-ab4a-870572642103" />
+
+
+<img width="1182" height="665" alt="ED89D906-67CD-4410-8D92-3FFB67DBE1DC_1_105_c" src="https://github.com/user-attachments/assets/a93295e1-6995-4248-b538-698abdc3f466" />
+
+
+<img width="1182" height="665" alt="0C52DC50-A7B1-4E6C-871E-7EFBFF29A80E_1_105_c" src="https://github.com/user-attachments/assets/f664fe0a-9139-434e-8df8-070d83b2468f" />
+
+
+<img width="1182" height="665" alt="6293615A-A224-4D4E-B440-86EB0F48D0CE_1_105_c" src="https://github.com/user-attachments/assets/73cab0d8-3c5b-4361-b967-2bc79cf043e3" />
+
+
+<img width="1182" height="665" alt="36B9491B-2EEA-4EC3-ABAE-D490E59F0A5D_1_105_c" src="https://github.com/user-attachments/assets/dae707b9-ddbd-41dd-8f1e-ec5ad9b8aea5" />
+
+
+
+
 ---
 
 ### 05 — Acer Aspire 3 A317: Windows Configuration and Remote-Lab Planning
