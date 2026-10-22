@@ -307,6 +307,19 @@ Examples:
 
 **Skills demonstrated:** Hardware identification, Windows edition/configuration awareness, remote-support lab planning.
 
+<img width="1182" height="665" alt="EC58FD0C-6F9F-4A13-8A3A-F45D78A5FD1A_1_105_c" src="https://github.com/user-attachments/assets/e272976d-0ac5-409a-ae8c-093d69468c7a" />
+
+<img width="1182" height="665" alt="206FE3DC-B69C-446E-8EDF-F2007CAB79AB_1_105_c" src="https://github.com/user-attachments/assets/a41af205-7445-42c1-b4e1-7a3552f85797" />
+
+
+<img width="1182" height="665" alt="E7E57B98-0057-41D0-9C52-0D604A70895D_1_105_c" src="https://github.com/user-attachments/assets/ff010c30-9733-440e-94e1-a84ee780a326" />
+
+
+<img width="1182" height="665" alt="0E9B1F43-5A5E-4519-9CFE-4DB7DEFFCEC8_1_105_c" src="https://github.com/user-attachments/assets/a389565f-b8ab-4704-8d38-ed226ad36937" />
+
+
+
+
 ---
 
 ### 06 — HP Pavilion Gaming 16: Unit A
