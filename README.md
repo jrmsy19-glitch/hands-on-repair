@@ -318,8 +318,6 @@ Examples:
 <img width="1182" height="665" alt="0E9B1F43-5A5E-4519-9CFE-4DB7DEFFCEC8_1_105_c" src="https://github.com/user-attachments/assets/a389565f-b8ab-4704-8d38-ed226ad36937" />
 
 
-
-
 ---
 
 ### 06 — HP Pavilion Gaming 16: Unit A
@@ -424,6 +422,21 @@ Examples:
 **Skills demonstrated:** Hardware reuse, HDD-to-SSD replacement, battery installation, OS deployment, post-install checks.
 
 **Key lesson:** Salvaged components can be useful when their health and compatibility are checked first.
+
+<img width="638" height="360" alt="630D58B9-D774-4CB6-BFC3-F304C97D20EE_4_5005_c" src="https://github.com/user-attachments/assets/c1b42b67-8ee8-4cc8-bb1a-61885277c836" />
+
+
+<img width="1182" height="665" alt="98B4ACCB-C334-414D-A273-3195E6AA1230_1_105_c" src="https://github.com/user-attachments/assets/2b58aa3d-cbfd-449f-8efc-3428a873d754" />
+
+
+<img width="1182" height="665" alt="C812EF77-3D48-486B-8F38-D809E3BB5F67_1_105_c" src="https://github.com/user-attachments/assets/0cf724cb-3f92-45c5-b3cb-231d96d1cfc3" />
+
+<img width="1182" height="665" alt="3C22CFF7-545F-47B7-989E-EE0D1024FA30_1_105_c" src="https://github.com/user-attachments/assets/f5d6c0bc-d688-473e-b33e-772fd5e84bfd" />
+
+
+<img width="665" height="1182" alt="ED30FDC4-F957-4688-8B27-F84B14444890_1_105_c" src="https://github.com/user-attachments/assets/a22321da-f0dc-4803-ada6-3ecd9006da3e" />
+
+
 
 ---
 
