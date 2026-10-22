@@ -425,6 +425,10 @@ Examples:
 
 <img width="638" height="360" alt="630D58B9-D774-4CB6-BFC3-F304C97D20EE_4_5005_c" src="https://github.com/user-attachments/assets/c1b42b67-8ee8-4cc8-bb1a-61885277c836" />
 
+<img width="2208" height="1242" alt="76935401-888E-4374-938D-C33A60C8EE21_1_201_a" src="https://github.com/user-attachments/assets/3ef07755-4422-4c9c-8586-7f7c6fcbde45" />
+
+
+<img width="1182" height="665" alt="085160DF-2771-4E4C-BC89-D7ADCECA34BC_1_105_c" src="https://github.com/user-attachments/assets/9ce2d5d3-4407-4d3a-9cf7-e7117c311f8e" />
 
 <img width="1182" height="665" alt="98B4ACCB-C334-414D-A273-3195E6AA1230_1_105_c" src="https://github.com/user-attachments/assets/2b58aa3d-cbfd-449f-8efc-3428a873d754" />
 
