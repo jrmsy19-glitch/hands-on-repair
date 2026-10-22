@@ -520,6 +520,17 @@ Examples:
 
 **Skills demonstrated:** Repeatable deployment, functional verification, standardized refurbishment.
 
+
+<img width="1182" height="665" alt="0F4EB4F3-775E-4515-B71F-9E49AF648A55_1_105_c" src="https://github.com/user-attachments/assets/320d6072-1c25-44e4-8220-22977239aca2" />
+
+
+<img width="1182" height="665" alt="4A58AF42-1BBF-4D5C-ACE7-DF9F1757E852_1_105_c" src="https://github.com/user-attachments/assets/45382622-692d-46fb-ab5e-9f6f0433b56b" />
+
+
+<img width="1182" height="665" alt="385BBE41-9428-4E7D-BDA7-756FCD480955_1_105_c" src="https://github.com/user-attachments/assets/aba80361-deab-473f-be77-a50aa8e29350" />
+
+
+
 ---
 
 ### 12 — Acer Swift 1 14-inch: Windows Refurbishment
