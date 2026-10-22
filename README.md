@@ -1,7 +1,7 @@
 # Laptop Repair, Troubleshooting & Refurbishment Portfolio
 
 **Jamal Ramsey**  
-**IT Enthusiast | Aspiring IT Support / Desktop Support Technician**  
+**IT Enthusiast | Aspiring IT Support / Desktop Support & Repair Technician**  
 **Project timeline:** July–October 2026  
 **Portfolio focus:** Hardware diagnostics • Windows deployment • Component replacement • BIOS/UEFI • Driver troubleshooting • Refurbishment
 
