@@ -441,7 +441,6 @@ Examples:
 <img width="665" height="1182" alt="ED30FDC4-F957-4688-8B27-F84B14444890_1_105_c" src="https://github.com/user-attachments/assets/a22321da-f0dc-4803-ada6-3ecd9006da3e" />
 
 
-
 ---
 
 ### 09 — Dell Laptop: “No Audio Device Found”
@@ -485,6 +484,23 @@ Examples:
 **Result:** Device was sold following refurbishment and functionality checks.
 
 **Skills demonstrated:** Windows installation, business-class laptop setup, touchscreen verification, resale preparation.
+
+<img width="1024" height="768" alt="1C0CA825-5734-4266-9369-AF09906B6D86_1_105_c" src="https://github.com/user-attachments/assets/96adfdd2-ab09-44fc-9529-3f545ffb5e3a" />
+
+
+<img width="1182" height="665" alt="4F952902-824B-41C4-BC0B-F5D9B0D05493_1_105_c" src="https://github.com/user-attachments/assets/e6f72019-5933-4c49-8d89-a18f1e804720" />
+
+
+<img width="1182" height="665" alt="4D219E2D-A38A-4BF1-ABB1-7FF1134E4E09_1_105_c" src="https://github.com/user-attachments/assets/4cf75416-fcd2-4ef7-a755-3b127fe9dc50" />
+
+
+<img width="1182" height="665" alt="973A9FFC-8673-41EE-A915-82594C4217BB_1_105_c" src="https://github.com/user-attachments/assets/61cdf632-c811-4d71-be12-7aa8b633efe9" />
+
+
+<img width="1182" height="665" alt="E148CB39-6095-4DBD-9ECD-A360ACD61EB4_1_105_c" src="https://github.com/user-attachments/assets/9b257b14-03b2-490e-b12d-a0a089df0822" />
+
+<img width="1182" height="665" alt="97CAE23B-5499-4361-A502-E0035F785CD4_1_105_c" src="https://github.com/user-attachments/assets/d5716a36-acda-4190-9ea9-c93bc445d3a4" />
+
 
 ---
 
